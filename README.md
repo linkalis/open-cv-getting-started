@@ -3,6 +3,11 @@ Instructions for Mac 10.10 Yosemite
 
 *(Sorry, Windows folks! Anyone want to add instructions for Windows installation? Let me know and I'll give you access to this repository so you can add them.)*
 
+## What is OpenCV?
+OpenCV is a computer vision library that is open source and free to use for personal or academic experimenting--or can even be built into commercial products!
+
+You can write OpenCV code in C/C++ (can be kinda tricky!), *or* you can use OpenCV's Python bindings to write Python code (a little less tricky!) that will work with OpenCV.  You can also write Java that works with OpenCV, but I'm not sure why you'd ever want to do that... ;-)
+
 ## 1) Install the Python Anaconda bundle
 From: http://continuum.io/downloads
 
